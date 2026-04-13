@@ -1,0 +1,14 @@
+{
+  "name": "javascript-review",
+  "version": "1.0.0",
+  "description": "Sample javScript project for reviewing OOP and DDD concepts",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Web Applications Development Team",
+  "license": "MIT",
+  "private": true
+}
