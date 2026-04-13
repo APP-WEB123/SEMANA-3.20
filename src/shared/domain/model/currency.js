@@ -1,6 +1,6 @@
 import {ValidationError} from "./errors.js";
 
-class Currency{
+export class Currency{
     static #VALID_CODES = ['USD','EUR','GBP','JPY'];
     #code;
 
